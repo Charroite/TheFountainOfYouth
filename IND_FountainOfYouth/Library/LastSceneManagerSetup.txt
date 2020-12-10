@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FountainOfYouth_VILLAGE.unity
+- path: Assets/Scenes/FountainOfYouth_MOUNTAIN.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
